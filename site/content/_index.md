@@ -1,6 +1,6 @@
 ---
-title: " "
-subtitle: Evina spletna stran
+title: " Eva Demšar"
+subtitle: Diplomirana fizioterapevtka
 image: img/yellow-and-black-global-response-engineer-linkedin-banner.png
 blurb:
   heading: Why Kaldi?
